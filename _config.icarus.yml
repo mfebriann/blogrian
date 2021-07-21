@@ -226,7 +226,7 @@ widgets:
     # Author's current location
     location: Jakarta
     # URL or path to the avatar image
-    avatar: /img/profile.jpg
+    avatar: /img/profile.webp
     # Whether show the rounded avatar image
     avatar_rounded: true
     # Email address for the Gravatar
