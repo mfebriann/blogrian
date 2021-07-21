@@ -12,7 +12,7 @@ date: 2021-05-08 13:50:21
 ---
 
 
-{% img /img/tutorial/membuat-program-ganjil-genap/hero.webp '"Tampilan Program" "Tampilan Program"' %}
+{% img /img/tutorial/membuat-program-ganjil-genap/hero.png '"Tampilan Program" "Tampilan Program"' %}
 
 Bismillahirrahmanirrahim
 
@@ -68,7 +68,7 @@ Pertama buatlah terlebih dahulu file html, lalu kamu bisa salin kode dibawah ini
 {% endcodeblock %}
 
 Disini saya langsung memasukkan kode untuk tag form nya dan juga menghubungkan dengan file css dan juga file javascript nya (Dibaris 8 & dibaris 37). Maka hasil dari kode diatas, ketika dibuka dibrowser akan seperti ini:
-{% img /img/tutorial/membuat-program-ganjil-genap/tampilan-html.webp '"Tampilan awal" "Tampilan awal"' %}
+{% img /img/tutorial/membuat-program-ganjil-genap/tampilan-html.png '"Tampilan awal" "Tampilan awal"' %}
 
 Setelah file html sudah dibuat, sekarang kita buat file css nya. Disini saya tidak mempercantik halaman nya, akan tetapi hanya mengubah letak atau posisi nya saja dan menambah sedikit saja untuk menghias halaman web nya. Silahkan kamu buat file css, pastikan nama file sama dengan nama yang telah kita hubungkan pada file html kita, yaitu nama file css nya **style.css**.
 
@@ -128,7 +128,7 @@ select {
 {% endcodeblock %}
 
 Jika kita buka di browser, maka hasil tampilan dari kode diatas akan seperti ini:
-{% img /img/tutorial/membuat-program-ganjil-genap/tampilan-css.webp '"Tampilan dengan tambahan css" "Tampilan dengan tambahan css"' %}
+{% img /img/tutorial/membuat-program-ganjil-genap/tampilan-css.png '"Tampilan dengan tambahan css" "Tampilan dengan tambahan css"' %}
 
 Sekarang masuk ketahap yang seru nya, yaitu bermain dengan javascript. Silahkan buat terlebih dahulu file javascript nya, sesuai dengan yang telah dihubungkan pada file html kita, yaitu nama file javascript nya **main.js**. Lalu kamu bisa salin kode dibawah ini atau jika ingin mencoba nya silahkan juga :D.
 {% codeblock main.js lang:javascript %}

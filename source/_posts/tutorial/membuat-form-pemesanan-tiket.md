@@ -13,7 +13,7 @@ date: 2021-06-01 22:42:53
 ---
 
 
-{% img /img/tutorial/program-pemesanan-tiket/hero.webp '"Tampilan Program" "Tampilan Program"' %}
+{% img /img/tutorial/program-pemesanan-tiket/hero.png '"Tampilan Program" "Tampilan Program"' %}
 
 Bismillahirrahmanirrahim
 
@@ -91,7 +91,7 @@ Pertama yang kita siapkan file html nya terlebih dahulu dan kita isikan struktur
 {% endcodeblock %}
 
 Maka jika kita buka di browser, tampilan jika kamu menyalin kode diatas hasilnya akan seperti ini:
-{% img /img/tutorial/program-pemesanan-tiket/tampilan-html.webp ' "Tampilan dengan HTML" "Tampilan dengan HTML" ' %}
+{% img /img/tutorial/program-pemesanan-tiket/tampilan-html.png ' "Tampilan dengan HTML" "Tampilan dengan HTML" ' %}
 <br>
 
 Terlihat aneh bukan?, maka dari itu saatnya kita membuat file css dan kita mencoba mempercantiknya. Jika kamu ingin mempercantik tampilan dengan cara sendiri silahkan atau jika ingin mengikuti tampilan saya, silahkan salin kode dibawah ini:
@@ -216,7 +216,7 @@ input[disabled] {
 {% endcodeblock %}
 
 Maka tampilan sekarang akan jadi seperti ini:
-{% img /img/tutorial/program-pemesanan-tiket/tampilan-css.webp ' "Tampilan dengan CSS" "Tampilan dengan CSS" ' %}
+{% img /img/tutorial/program-pemesanan-tiket/tampilan-css.png ' "Tampilan dengan CSS" "Tampilan dengan CSS" ' %}
 <br>
 
 Sekarang sudah mendingan untuk dilihat bukan tampilannya hahaha, sekarang lanjut ke bagian terpenting nya yaitu bagian javascript. Silahkan buat file javascript nya terlebih dahulu. Lalu kalian bisa salin kode dibawah ini, dengan catatan perhatikan **id** yang pada pada html kalian.

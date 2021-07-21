@@ -11,7 +11,7 @@ category: tutorial
 date: 2021-05-07 00:04:23
 ---
 
-{% img /img/tutorial/program-luas-keliling-lingkaran/hero.webp '"Tampilan Program" "Tampilan Program"' %}
+{% img /img/tutorial/program-luas-keliling-lingkaran/hero.png '"Tampilan Program" "Tampilan Program"' %}
 
 Bismillahirrahmanirrahim
 
@@ -121,7 +121,7 @@ Setelah file html telah siap, kita buat tag form sederhana untuk user menginputk
 {% endcodeblock %}
 
 Maka hasil tampilan kode diatas akan seperti ini.
-{% img /img/tutorial/program-luas-keliling-lingkaran/tampilan-html.webp '"Tampilan browser dari file html" "Tampilan browser dari file html"' %}
+{% img /img/tutorial/program-luas-keliling-lingkaran/tampilan-html.png '"Tampilan browser dari file html" "Tampilan browser dari file html"' %}
 
 ### Keterangan
 
@@ -202,7 +202,7 @@ overflow: scroll;
 {% endcodeblock %}
 
 Maka hasil tampilan kode diatas akan seperti ini.
-{% img /img/tutorial/program-luas-keliling-lingkaran/tampilan-css.webp '"Tampilan browser dari file css" "Tampilan browser dari file css"' %}
+{% img /img/tutorial/program-luas-keliling-lingkaran/tampilan-css.png '"Tampilan browser dari file css" "Tampilan browser dari file css"' %}
 
 ### Keterangan
 
@@ -490,7 +490,7 @@ Sehingga jika digabungkan kode nya, akan menjadi seperti ini:
 {% endcodeblock %}
 
 Maka hasil tampilan kode diatas akan seperti ini.
-{% img /img/tutorial/program-luas-keliling-lingkaran/tampilan-html2.webp '"Tampilan browser dari file css" "Tampilan browser dari file css"' %}
+{% img /img/tutorial/program-luas-keliling-lingkaran/tampilan-html2.png '"Tampilan browser dari file css" "Tampilan browser dari file css"' %}
 
 ### Keterangan
 
@@ -596,7 +596,7 @@ margin-top: 20px;
 {% endcodeblock %}
 
 Maka hasil tampilan dari kode diatas akan seperti ini.
-{% img /img/tutorial/program-luas-keliling-lingkaran/tampilan-css2.webp '"Tampilan browser dari file css" "Tampilan browser dari file css"' %}
+{% img /img/tutorial/program-luas-keliling-lingkaran/tampilan-css2.png '"Tampilan browser dari file css" "Tampilan browser dari file css"' %}
 
 Oke, terakhir kita ke beralih ke file javascript nya. Mungkin sama aja seperti kode javascript diatas, yang membedakan adalah rumus menggunakan 3,14. Kamu bisa salin kode ini dan tambahkan di file main.js kamu sebelum nya:
 {% codeblock main.js lang:javascript %}
