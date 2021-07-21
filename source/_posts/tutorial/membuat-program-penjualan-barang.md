@@ -6,7 +6,7 @@ categories: tutorial
 date: 2021-04-27 09:53:14
 ---
 
-{% img /img/tutorial/membuat-program-penjualan-barang/membuat-program-penjualan-barang.png '"Tampilan Program"  "Tampilan Program"' %}
+{% img /img/tutorial/membuat-program-penjualan-barang/membuat-program-penjualan-barang.webp '"Tampilan Program"  "Tampilan Program"' %}
 
 Bismillahirrahmanirrahim
 

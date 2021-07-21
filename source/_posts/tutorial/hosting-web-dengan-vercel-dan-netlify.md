@@ -11,7 +11,7 @@ date: 2021-04-30 22:00:28
 ---
 
 
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/hosting-vercel-dan-netlify.png '"Gambar Hero" "Gambar Hero"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/hosting-vercel-dan-netlify.webp '"Gambar Hero" "Gambar Hero"' %}
 
 Bismillahirrahmanirrahim
 
@@ -32,9 +32,9 @@ Setelah persyaratan nya sudah dilengkapi. Kita mulai dengan Github terlebih dahu
 
 1. Apabila kamu sudah membuat akun Github, silahkan login dan masuk ke dalam halaman membuat repository baru [Buat repository baru](https://github.com/new)
 2. Isikan form sesuai aturan, untuk bagian Public atau Private silahkan pilih public dan untuk _Initialize this repository with:_ abaikan saja dulu ya :"). Lalu tekan *Create Repository*.
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/create-repository-github.png '"Gambar repository baru buat" "Repository baru buat"'%}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/create-repository-github.webp '"Gambar repository baru buat" "Repository baru buat"'%}
 3. Lalu akan ada tampilan perintah untuk push ke Github. Untuk itu kita lewati dulu, buka folder projek kamu lalu klik kanan pada mouse dan buka Git (Jika sudah menginstall nya).
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/folder-projek.jpg '"Gambar folder projek saya" "Folder projek saya"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/folder-projek.webp '"Gambar folder projek saya" "Folder projek saya"' %}
  - Di Windows jika klik kanan pada mouse buka yang bertuliskan **Git Bash Here** 
  - Di GNU/Linux bertuliskan **Open in Terminal** (Saya menggunakan Linux Mint)
  - Di MacOS saya kurang tau hehe (Mungkin sama dengan di GNU/Linux)
@@ -52,38 +52,38 @@ git branch -M main
 git remote add origin https://github.com/usernameGithub/nama-repo-kamu.git
 git push -u origin main
 ```
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/perintah-git.png '"Gambar Perintah Git" "Perintah Git saya"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/perintah-git.webp '"Gambar Perintah Git" "Perintah Git saya"' %}
 6. Silahkan refersh halaman browser Github nya
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/tampilan-github.png '"Gambar tampilan github setelah di push" "Tampilan setelah di push"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/tampilan-github.webp '"Gambar tampilan github setelah di push" "Tampilan setelah di push"' %}
 7. Setelah itu? sudah, untuk membuat repository baru panjang juga ya :")
 
 ## Hosting dengan Vercel
 1. Silahkan buka website [Vercel](https://vercel.com/dashboard) dan login, saya asumsikan kamu sudah daftar dan mempunyai akunnya
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/tampilan-awal-vercel.png '"Gambar dashboard Vercel" "Tampilan dashboard Vercel"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/tampilan-awal-vercel.webp '"Gambar dashboard Vercel" "Tampilan dashboard Vercel"' %}
 2. Klik **New Project**
 3. Lalu pilih **Continue with Github** dan akan meminta perizinan untuk menginstall vercel. Disini kamu disuruh pilih **All repositoriess** atau **Only select repositories**, disini saya All repositories. Lalu install, dan nanti akan ada repo yang telah kita buat sebelumnya di Github (repo projek kamu). Klik Import pada repo tersebut.
 4. Lalu dibagian **Select Vercel Scope** disini saya memilih personal account, karena kita belum ada team dan ini hanya untuk latihan sederhana saja ya :")
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/import-projek.png '"Gambar Import Project" "Import Project"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/import-projek.webp '"Gambar Import Project" "Import Project"' %}
 5. Lalu tekan continue
 6. Berhubung website yang di deploy sederhana, kita tidak perlu ubah-ubah lagi. Langsung deploy aja. Dan tunggu.....
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/vercel-deploy.png '"Gambar website berhasil deploy" "Website berhasil deploy"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/vercel-deploy.webp '"Gambar website berhasil deploy" "Website berhasil deploy"' %}
 7. Ini website yang telah saya buat dengan hosting Vercel di https://cara-hosting-vercel-dan-netlify.vercel.app/. Gimana website temen-temen, huff panjang juga yak hahaha. Kalo ada kendala bisa japri saya di Telegram [Rian](https://t.me/riann18) dan bisa juga pamerin website temen-temen semua.
 
 Okee, deploy dengan vercel sudah kelar :". Selanjut nya kita deploy dengan netlify, let's go bruhhhh....
 
 ## Hosting dengan Netlify
 1. Silahkan buka website [Netlify](https://www.netlify.com/) dan login, saya asumsikan kamu sudah daftar dan mempunyai akunnya
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/tampilan-awal-netlify.png '"Gambar dashboard Netlify" "Tampilan dashboard Netlify"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/tampilan-awal-netlify.webp '"Gambar dashboard Netlify" "Tampilan dashboard Netlify"' %}
 2. Lalu tekan tombol **New site from Git**, setelah itu pilih Github (sesuaikan saja jika kamu pengguna selain Github)
 3. Otomatis akan membuka popup browser baru untuk meminta **Authorized**
 4. Setelah itu akan muncul repo yang tersimpan di Github kita, pilih repo projek kamu
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/netlify-deploy.png '"Gambar setting deploy Netlify" "Tampilan setting deploy Netlify"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/netlify-deploy.webp '"Gambar setting deploy Netlify" "Tampilan setting deploy Netlify"' %}
 5. Karena kita hanya web static saja yang sederhana. Tekan langsung pada tombol **Deploy site** dibawah, lalu tunggu.....
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/netlify-deploy-berhasil.png '"Gambar deploy berhasil" "Tampilan deploy berhasil"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/netlify-deploy-berhasil.webp '"Gambar deploy berhasil" "Tampilan deploy berhasil"' %}
 6. Jika ada pesan **published** artinya website kita sudah dapat diakses oleh orang lain, namun disini nama website kita masih aneh
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/netlify-domain-acak.jpg '"Gambar domain acak Netlify" "Tampilan domain acak Netlify"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/netlify-domain-acak.webp '"Gambar domain acak Netlify" "Tampilan domain acak Netlify"' %}
 7. Untuk mengatasi itu kamu klik bagian **Domain settings**, scroll sedikit kebawah klik bagian options dan **Edit site name**
-{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/edit-domain-netlify.png '"Gambar edit domain Netlify" "Tampilan edit domain Netlify"' %}
+{% img /img/tutorial/hosting-web-dengan-vercel-dan-netlify/edit-domain-netlify.webp '"Gambar edit domain Netlify" "Tampilan edit domain Netlify"' %}
 8. Edit nama domain nya sesuai keinginan kamu, lalu save
 9. Dan domain akan berubah sesuai input yang kamu edit dan domain sebelumnya tidak bisa kamu akses lagi, kamu bisa cek website yang saya buat ini dengan hosting dari Netlify di https://cara-hosting-vercel-dan-netlify.netlify.app/
 
