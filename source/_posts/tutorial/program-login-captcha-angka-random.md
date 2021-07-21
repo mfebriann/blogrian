@@ -12,7 +12,7 @@ date: 2021-05-09 20:56:55
 ---
 
 
-{% img /img/tutorial/login-captcha-angka-random/hero.webp '"Tampilan Program" "Tampilan Program"' %}
+{% img /img/tutorial/login-captcha-angka-random/hero.png '"Tampilan Program" "Tampilan Program"' %}
 
 Bismillahirrahmanirrahim
 
@@ -67,7 +67,7 @@ Pertama, siapkan terlebih dahulu file html kalian. Lalu buat form sederhana, jik
 {% endcodeblock %}
 
 Perlu diingat kita juga sudah menghubungkan file css dan javascript kita, nanti kita perlu buat saja file tersebut. Jika kalian menyalin kode diatas, maka hasilnya akan seperti ini.
-{% img /img/tutorial/login-captcha-angka-random/tampilan-html.webp '"Tampilan awal" "Tampilan awal"' %}
+{% img /img/tutorial/login-captcha-angka-random/tampilan-html.png '"Tampilan awal" "Tampilan awal"' %}
 
 Sekarang kita hias sedikit dengan css, kamu bisa menghias sendiri form nya. Atau kamu bisa ikuti saya dengan menyalin kode dibawah ini:
 {% codeblock style.css lang:css %}
@@ -140,7 +140,7 @@ input:not(input[type="submit"]) {
 {% endcodeblock %}
 
 Maka hasil nya setelah ditambahkan css, jika kalian mengikuti kode diatas akan seperti ini.
-{% img /img/tutorial/login-captcha-angka-random/tampilan-css.webp '"Tampilan dengan CSS" "Tampilan dengan CSS"' %}
+{% img /img/tutorial/login-captcha-angka-random/tampilan-css.png '"Tampilan dengan CSS" "Tampilan dengan CSS"' %}
 
 Ngomong-ngomong kalian ngeh gak ya? Ada kotak kosong warna coklat dengan border hitam, kenapa kosong? Itu nant akan diisi dengan angka random untuk captcha, kita bahas pada bagian javascript.
 
