@@ -23,42 +23,42 @@ Sebelum membahasnya saya mengingatkan untuk tidak lupa **membaca lisensi pada si
 # Gambar
 
 1. Unsplash
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-unsplash.webp '"Tampilan awal Unsplash" "Tampilan awal Unsplash' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-unsplash.png '"Tampilan awal Unsplash" "Tampilan awal Unsplash' %}
 
 Ini merupakan situs yang sering saya kunjungi jika sedang membutuhkan asset gambar, untuk membuat latihan sederhana saya membuat sebuah landing page, kamu bisa kunjungi situs nya di [Unsplash](https://unsplash.com/). Dimana  gambar-gambar dari situs Unsplash ini sangat berkualitas dan banyak sekali. Dimana ketika kita baca lisensi nya di [License Unsplash](https://unsplash.com/license). Akan mendapatkan beberapa pernyataan seperti gambar dibawah ini.
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-unsplash.webp '"Tampilan lisensi Unsplash" "Tampilan lisensi Unsplash' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-unsplash.png '"Tampilan lisensi Unsplash" "Tampilan lisensi Unsplash' %}
 
 2. pixabay
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-pixabay.webp '"Tampilan awal pixabay" "Tampilan awal pixabay' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-pixabay.png '"Tampilan awal pixabay" "Tampilan awal pixabay' %}
 
 Ini juga tempat situs yang saya suka kunjungi ketika tidak ada gambar yang sesuai di Unsplash maka saya cari ke pixabay. Di pixabay sendiri juga banyak gambar yang menarik, akan tetapi disini terdapat juga ilustrasi, vector, video, dan juga musik. Cukup keren bukan?, kamu bisa kunjungi situsnya di [pixabay](https://pixabay.com/).
 
 Jika kamu buka halaman lisensi nya [License pixabay](https://pixabay.com/service/license/). Maka kamu mendapat beberapa pernyataan seperti gambar dibawah ini, dimana salah satu pernyataannya **Tidak wajib memberikan atribut, akan tetapi jika memberikan itu sangat dihargai**.
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-pixabay.webp '"Tampilan lisensi pixabay" "Tampilan lisensi pixabay' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-pixabay.png '"Tampilan lisensi pixabay" "Tampilan lisensi pixabay' %}
 
 # Ikon
 
 1. Ikonate
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-ikonate.webp '"Tampilan awal Ikonate" "Tampilan awal Ikonate' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-ikonate.png '"Tampilan awal Ikonate" "Tampilan awal Ikonate' %}
 Kamu bisa kunjungi situsnya di [Ikonate](https://ikonate.com/) dan membaca lisensi nya di [License - Ikonate](https://github.com/mikolajdobrucki/ikonate#license) dimana **Bisa digunakan untuk projek pribadi ataupun komersial, dan tidak wajib mencantumkan atribute akan tetapi itu sangat dihargai bila mencantumkannya**. Atau melihat gambar dibawah ini untuk lisensi nya.
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-ikonate.webp '"Tampilan lisensi Ikonate" "Tampilan lisensi Ikonate' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-ikonate.png '"Tampilan lisensi Ikonate" "Tampilan lisensi Ikonate' %}
 
 2. RemixIcon
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-remixicon.webp '"Tampilan awal Remix Icon" "Tampilan awal Remix Icon' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-remixicon.png '"Tampilan awal Remix Icon" "Tampilan awal Remix Icon' %}
 Kamu bisa kunjungi situsnya di [Remix Icon](https://remixicon.com/) dan membaca lisensi nya di [License - Remix Icon](https://github.com/Remix-Design/remixicon#license) dimana **Bisa digunakan untuk projek pribadi ataupun komersial, dan tidak wajib mencantumkan atribute akan tetapi itu sangat dihargai bila mencantumkannya** dan yang tidak boleh dilakukan adalah **Ikon-ikon ini tidak dijual**. Atau melihat gambar dibawah ini untuk lisensi nya.
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-remixicon.webp '"Tampilan lisensi Remix Icon" "Tampilan lisensi Remix Icon' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-remixicon.png '"Tampilan lisensi Remix Icon" "Tampilan lisensi Remix Icon' %}
 
 # Ilustrasi
 
 1. ManyPixels
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-manypixels.webp '"Tampilan awal ManyPixels" "Tampilan awal ManyPixels' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-manypixels.png '"Tampilan awal ManyPixels" "Tampilan awal ManyPixels' %}
 Kamu bisa kunjungi situsnya di [ManyPixels](https://www.manypixels.co/), dan bisa membaca lisensi nya di [License - ManyPixels](https://www.manypixels.co/gallery) pada bagian **LICENSE** dimana nanti akan ada muncul diperbolehkan menggunakannya tanpa atribute.
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-manypixels.webp '"Tampilan lisensi ManyPixels" "Tampilan lisensi ManyPixels' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-manypixels.png '"Tampilan lisensi ManyPixels" "Tampilan lisensi ManyPixels' %}
 
 2. Undraw
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-undraw.webp '"Tampilan awal unDraw" "Tampilan awal unDraw' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/tampilanAwal-undraw.png '"Tampilan awal unDraw" "Tampilan awal unDraw' %}
 Kamu bisa kunjungi situsnya di [unDraw](https://undraw.co/), dan bisa membaca lisensi nya di [License - unDraw](https://undraw.co/license).
-{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-undraw.webp '"Tampilan lisensi unDraw" "Tampilan lisensi unDraw' %}
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/lisensi-undraw.png '"Tampilan lisensi unDraw" "Tampilan lisensi unDraw' %}
 
 Mungkin itu saja yang bisa saya bagikan tentang situs penyedia gambar, ikon, dan ilustrasi yang gratis dimana bisa dipakai untuk pribadi ataupun komersial tanpa menyertakan atribute. Akan tetapi bila menyertakan atribute itu akan sangat dihargai.
 
