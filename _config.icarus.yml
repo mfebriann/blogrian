@@ -152,9 +152,6 @@ search:
   type: insight
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
-# comment:
-#   # type: disqus
-#   # shortname: https-mfebriann-github-io
 comment:
   type: utterances
   repo: mfebriann/mfebriann.github.io
@@ -388,3 +385,9 @@ providers:
   fontcdn: google
   # Name or URL of the fontawesome icon font CDN provider
   iconcdn: fontawesome
+
+# Minify
+minify:
+  js: true
+  css: true
+  html: true
