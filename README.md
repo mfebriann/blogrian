@@ -10,7 +10,7 @@ Untuk menginstall hexo diperlukan beberapa persyaratan:
 1. [Git](https://git-scm.com/)
 2. [NodeJS](https://nodejs.org/en/)
 
-## Setelah selesai menginstall beberapa persyartan, jika ingin menjalankan blog secara offline
+## Setelah selesai menginstall beberapa persyaratan, jika ingin menjalankan blog secara offline
 
 1. Clone repo ini
 `https://github.com/mfebriann/mfebriann.github.io.git`
