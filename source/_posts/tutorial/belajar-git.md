@@ -13,7 +13,7 @@ date: 2021-10-19 00:01:45
 
 Bismillahirrahmanirrahim
 
-Sekarang kita akan membahas mengenai belajar git dasar, saya asumsikan temen-temen sudah menginstall git di sistem operasi masing-masing. Jika belum, silahkan cari di internet cara download dan install git.
+Sekarang kita akan membahas mengenai belajar git dasar, saya asumsikan temen-temen sudah menginstall git di sistem operasi masing-masing. Jika belum, silahkan cari di internet cara download dan install git, karena di materi ini saya tidak menjelaskan bagaimana mendownload dan menginstall git.
 
 Disini saya juga masih belajar mengenai git, jadi jika ada kesalahan tolong berikan komentar nya ya, agar saya bisa berkoreksi diri.
 
@@ -31,7 +31,7 @@ Sebelum kita praktek mengenai perintah yang ada di git, alangkah baiknya kita se
 
 Jadi, git adalah salah satu dari **Version Control System (VCS)** yang dapat mengetahui _perubahan pada file yang kita kelola_. Tidak hanya untuk mengelola source code saja. Kita juga dapat mengelola file text biasa ataupun mengelola file gambar.
 
-Lalu, apa itu Version Control System (VCS)?
+## Apa itu Version Control System (VCS)?
 
 Version Control System sendiri merupakan sistem yang mengelola perubahan pada file. Dengan sistem VCS ini setiap perubahan file akan dipantau dan history perubahannya akan tersimpan. History perubahan yang tersimpan akan menghasilkan string panjang yang unik, itu disebut dengan _hash_ dan untuk menyimpan sebuah perubahan kita harus berikan _commit_.
 
