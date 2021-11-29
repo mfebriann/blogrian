@@ -3,14 +3,15 @@ title: Tentang Saya
 date: 2021-04-26 08:04:25
 comments: true
 ---
-<h3>Hai, yang disana 👋</h3>
+<h3>Halo semua nya 👋</h3>
 
-Perkenalkan nama saya <b>Muhammad Febrian</b> atau biasa dipanggil <b>Rian</b>. Saya lulusan dari <b>SMK Negeri 54 Jakarta</b> yang mengambil jurusan Teknik Komputer Jaringan (TKJ). Saya sangat senang tentang dunia teknologi, khusus nya mengenai website. Sekarang sedang tahap belajar mengenai Javascript.
+Bagi yang belum kenal, ijinkan saya untuk memperkenalkan diri terlebih dahulu.Perkenalkan nama saya <b>Muhammad Febrian</b> atau biasa dipanggil <b>Rian</b>. 
 
-Tempat Lahir: Jakarta
-Tanggal Lahir: 18 Februari 2002
-Email: muhammadfebriyan86@gmail.com
+Saya lulusan dari salah satu SMK yang ada di Jakarta yang mengambil jurusan Teknik Komputer dan Jaringan. Saya sangat senang sekali tentang dunia teknologi, khusus nya mengenai website.
 
-Emmm, mungkin itu saja yang bisa saya bagikan mengenai perkenalan diri ini. Singkat saja ya, soalnya bingung mau perkenalin diri apa lagi hehehe.
+Tujuan saya membuat blog ini adalah hanya sebuah catatan dan membagikan ilmu yang saya miliki. Yang mana mungkin dapat bermanfaat bagi orang lain, apabila ada kritik maupun saran terhadap blog ini. Kamu dapat menghubungi saya di:
+Telegram: https://t.me/riann18
+Instagram: https://www.instagram.com/mfebrian22/
+Facebook: https://www.facebook.com/mfebrian22/
 
-Semoga catatan di Blog ini dapat bermanfaat bagi teman-teman semua 😁
+Saya berharap semoga catatan yang ada di blog ini dapat bermanfaat ❤️
