@@ -293,7 +293,7 @@ widgets:
      # Feedburner ID
      feedburner_id: github/hjgp
    # Google AdSense unit configurations
-   -  # Where should the widget be placed, left sidebar or right sidebar
+   #-  # Where should the widget be placed, left sidebar or right sidebar
    #   position: right
    #   type: adsense
    # # AdSense client ID
