@@ -159,22 +159,22 @@ comment:
    theme: github-light
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
-# donates:
-#   # "Afdian.net" donate button configurations
-#   # -
-#   #     type: afdian
-#   #     # URL to the "Afdian.net" personal page
-#   #     url: ''
-#   # # Alipay donate button configurations
-#   # -
-#   #     type: alipay
-#   #     # Alipay qrcode image URL
-#   #     qrcode: ''
-#   # "Buy me a coffee" donate button configurations
-#   - type: buymeacoffee
-#     # URL to the "Buy me a coffee" page
-#     description: Suka artikel ini? Dukung selalu penulis
-#     url: "https://saweria.co/mfebriann"
+donates:
+   #   # "Afdian.net" donate button configurations
+   #   # -
+   #   #     type: afdian
+   #   #     # URL to the "Afdian.net" personal page
+   #   #     url: ''
+   #   # # Alipay donate button configurations
+   #   # -
+   #   #     type: alipay
+   #   #     # Alipay qrcode image URL
+   #   #     qrcode: ''
+   #   # "Buy me a coffee" donate button configurations
+   - type: buymeacoffee
+     #     # URL to the "Buy me a coffee" page
+     description: Suka artikel ini? Dukung selalu penulis
+     url: "https://saweria.co/mfebriann"
 # Patreon donate button configurations
 # -
 #     type: patreon
