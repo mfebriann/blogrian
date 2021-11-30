@@ -293,13 +293,13 @@ widgets:
      # Feedburner ID
      feedburner_id: github/hjgp
    # Google AdSense unit configurations
-   #-  # Where should the widget be placed, left sidebar or right sidebar
-   #   position: right
-   #   type: adsense
-   # # AdSense client ID
-   #   client_id: "ca-pub-2745309960604485"
-   # # AdSense AD unit ID
-   #   slot_id: "5737368295"
+   - # Where should the widget be placed, left sidebar or right sidebar
+     position: right
+     type: adsense
+     # # AdSense client ID
+     client_id: "ca-pub-2745309960604485"
+     # # AdSense AD unit ID
+     slot_id: "5049605606"
 
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
