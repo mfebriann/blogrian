@@ -11,6 +11,8 @@ categories: referensi
 date: 2021-06-10 16:22:37
 ---
 
+{% img /img/referensi/situs-gambar-ikon-ilustrasi-gratis-tanpa-atribute/thumbnail.png '"Thumbnail" "Thumbnail' %}
+
 
 Bismillahirrahmanirrahim
 
@@ -83,3 +85,9 @@ Sebenarnya diatas hanyalah beberapa, lebih tepatnya yang sering kunjungi. Bebera
  Cukup sekian saja pembahasannya, jangan lupa teman-teman diwajibkan untuk **membaca lisensi terlebih dahulu**, takutnya saya sendiri ada kekeliruan dalam membaca lisensi situs tersebut. Apabila ada kekeliruan dan kesalahan mohon dimaafkan, dan berikan komentar nya agar saya dapat memperbaikinya. 
 
  Terima kasih, semoga bermanfaat.
+
+ Sumber aset:
+  - Gambar:
+    - https://unsplash.com/photos/QdqK4doOzcQ
+    - https://remixicon.com/
+    - https://undraw.co/
