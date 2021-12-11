@@ -97,7 +97,9 @@ Disini saya berikan keybinding untuk inward yaitu `Ctrl+Alt+v`
 
 Sekian yang bisa saya bagikan mengenai materi outward dan inward ini, kurang lebihnya mohon dimaafkan. Bila ada kekurangan atau kesalahan jangan sungkan untuk berkomentar untuk memberikan pendapat maupun sarannya, itu sangat saya terima dengan baik. Supaya bisa saya perbaiki.
 
-Jika ingin mengobrol secara pribadi bisa hubungi saya di Telegram [Rian](https://t.me/riann18). Semoga catatan ini dapat bermanfaat ya.
+Jika ingin mengobrol secara pribadi bisa hubungi saya di [Telegram](https://t.me/riann18) atau [Facebook](https://www.facebook.com/mfebrian22/). Semoga catatan ini dapat bermanfaat ya.
+
+Untuk lihat penjelasan secara singkat kamu bisa cek [disini](https://www.instagram.com/p/CXT7F3Ov_eF/?utm_source=ig_web_copy_link).
 
 Sumber referensi:
  - Materi:
