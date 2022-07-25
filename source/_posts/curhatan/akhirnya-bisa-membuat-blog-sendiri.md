@@ -6,6 +6,9 @@ categories: curhatan
 comments: true
 ---
 
+{% img https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=896&q=80 '"Image from Unsplash: https://unsplash.com/photos/n8Qb1ZAkK88" "Image from Unsplash: https://unsplash.com/photos/n8Qb1ZAkK88"' %}
+
+
 Bismillahirrahmanirrahim
 
 Sedikit curhatan aja hehehe, alhamdulillah akhirnya saya dapat membuat tempat untuk menulis catatan. Dimana sebelumnya saya menulis nya di [Medium](https://medium.com/@mfebrian). Dari dulu berharap mempunyai tempat sendiri untuk menulis, dulu sempat menulis diberbagi platform seperti: WordPress dan Blogger. 
